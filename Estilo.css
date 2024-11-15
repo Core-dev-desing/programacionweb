@@ -1,0 +1,149 @@
+.encabezado{
+    background-color:rgb(242, 119, 32);
+    height: 75px;
+    display: flex;
+    justify-content: flex-start;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+}
+#bienvenida{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(196, 100, 4, 0.8);
+}
+#aquivaellogo{
+    color: aliceblue;
+}
+.imagendelequipo{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    background-color: aqua;
+}
+#titulo{
+    background-color:rgba(228, 9, 53, 0.926);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(128, 255, 0, 0.871);
+}
+#textorar{
+    font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+}
+#piedepagina{
+    background-color:rgba(106, 26, 210, 0.763);
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(240, 248, 255, 0.755);
+}
+.bloque{
+    background-color: rgb(24, 255, 255);
+    margin-top: -10px;
+    padding: 10px 10px 10px 10px;
+    justify-content: center;
+    justify-items: center;
+    text-align: justify
+}
+#politicadeatencionalcliente{
+    justify-content: center;
+    justify-items: center;
+    text-align: justify
+}
+.secciones{
+    width: 185px;
+    height: 40px;
+    margin-left: auto;
+    display:flex;
+}
+.menuprincipal{
+    background-color: rgba(0, 255, 255, 0.797);
+    width: 50px;
+    height: 20px;
+}
+#principal{
+    font-size: 12px;
+}
+.menudecomida{
+    background-color:rgba(127, 255, 212, 0.884);
+    width: 40px;
+    height: 20px;
+}
+.fondo{
+    background-color: rgba(10, 251, 251, 0.89);
+}
+.letra{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:darkorange;
+    color: rgb(181, 255, 212);
+    justify-items: center;
+    justify-items: center;
+    text-align: justify;
+}
+.titulos{
+    color: rgb(234, 54, 54);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 33px;
+}
+#comida{
+    font-size: 12px;
+}
+.galeria{
+    background-color:rgb(119, 218, 20);
+    width: 40px;
+    height: 20px;
+}
+#titulodegaleria{
+    font-family:cursive;
+    font-size: 40px;
+    margin-bottom: -10px;
+    background-color:rgba(228, 35, 35, 0.886);
+}
+#galeria{
+    font-size: 12px;
+}
+.descuentos{
+    background-color:rgba(30, 207, 33, 0.904);
+    width: 55px;
+    height: 20px;
+}
+#descuentos{
+    font-size: 12px;
+}
+.fondoo{
+    background-color:rgb(255, 230, 44);
+}
+.Cuerpo{
+    background-color:lightskyblue;
+    width:auto;
+    height: 350px;
+    justify-items: center;
+    margin-top: -20px;
+}
+.datosdelautor{
+    background-color:rgba(77, 77, 243, 0.803);
+    width: 533+px;
+    height: 75px;
+    display: flex; 
+    justify-content: end;
+}
+.nombredepila{
+    width: 35px;
+    height: 20px;
+}
+.materia{
+    width: 90px;
+    height: 20px;
+}
+.telefonodeautor{
+    width: 100px;
+    height: 20px;
+}
+.doce{
+    font-size: 10px;
+    color: rgba(240, 248, 255, 0.697);
+    font-family: 'Times New Roman', Times, serif;
+}
+.correo{
+    width: 100px;
+    height: 20px;
+}
+
